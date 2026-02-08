@@ -99,3 +99,6 @@ build/sonix/
 **/bundle/lib/avformat-*.dll
 **/bundle/lib/avutil-*.dll
 **/bundle/lib/swresample-*.dll
+
+# FVM Version Cache
+.fvm/
